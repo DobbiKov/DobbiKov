@@ -12,7 +12,6 @@
 <img style="margin-right: 5px" align="left" alt="CSS3" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img style="margin-right: 5px" align="left" alt="JavaScript" width="28px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_js.svg" />
 <img style="margin-right: 5px" align="left" alt="Node.js" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img style="margin-right: 5px" align="left" alt="Deno" width="28px" src="icons/deno.svg" />
 <img style="margin-right: 5px" align="left" alt="MongoDB" width="28px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_mongo.svg" />
 <img style="margin-right: 5px" align="left" alt="Git" width="28px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_git.svg" />
 <img style="margin-right: 5px" align="left" alt="GitHub" width="28px" src="icons/github.png" />

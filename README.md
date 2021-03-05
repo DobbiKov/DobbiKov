@@ -19,6 +19,7 @@
 <br><br>
 ### Connect With Me:
 <a href="https://www.youtube.com/channel/UCTZPd4-fWOOdaqLzBwJQolw"><img style="margin-right: 5px" align="left" alt="youtube" width="28px" src="icons/youtube-round-color.svg" /></a>
+<a href="https://t.me/dobbikov"><img style="margin-right: 5px" align="left" alt="telegram" width="28px" src="icons/telegram.png" /></a>
 <br><br>
 
 <img width="420" src="https://github-readme-stats.vercel.app/api?username=dobbikov&theme=radical&show_icons=true&hide_border=true&include_all_commits=true&custom_title=My%20Github%20Stats"/><img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dobbikov&layout=compact&theme=radical&hide_border=true"/>

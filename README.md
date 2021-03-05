@@ -1,6 +1,4 @@
-### Hi there <a href="https://dev.draxis.work"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-
-## I'm Joel, a Developer & Aspiring Teacher!
+## I'm Roman Zapotockiy, a Developer & Content Maker!
 - 💻 My current focus is C# and React.JS
 - 🌱 Currently learning Angular
 - 👯 Im looking to work with other developers

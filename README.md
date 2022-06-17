@@ -1,7 +1,23 @@
-## I'm Roman Zapotockiy, a Developer & Content Maker!
-- 💻 My current focus is C# and React.JS
-- 🌱 Currently learning Angular
-- 👯 Im looking to work with other developers
+# 👋 Hello
+Hello, I'm DobbiKov! I'm **Software Developer** from **Ukraine🇺🇦**.
+
+## 👨‍💻 Skills
+- python
+- aiogram, aiohttp
+- parsing web-sites
+- html5, css3, js
+- react.js
+- Node.JS
+
+## 🤝 Contact
+- Discord: DobbiKov#7647
+- Telegram: [@dobbikov](https://t.me/dobbikov)
+- Youtube: [My Channel](https://www.youtube.com/channel/UCTZPd4-fWOOdaqLzBwJQolw)
+- Site: [in developing](https://dobbikov.com)
+
+## 💻 My current activity
+[![Discord Presence](https://lanyard.cnrad.dev/api/396425797071798282)](https://discord.com/users/396425797071798282)
+
 
 ### Languages & Tools:
 <img style="margin-right: 5px" align="left" alt="VCSharp" width="28px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_csharp2.svg" />

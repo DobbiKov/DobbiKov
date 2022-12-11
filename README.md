@@ -5,9 +5,16 @@ Hello, I'm DobbiKov! I'm **Software Developer** from **Ukraine🇺🇦**.
 - python
 - aiogram, aiohttp
 - parsing web-sites
+- requests, selenium
 - html5, css3, js
 - react.js
 - Node.JS
+- C#
+- ASP NET Core
+- Entity Framework Core
+- MySQL
+- docker
+- Pawn
 
 ## 🤝 Contact
 - Discord: DobbiKov#7647

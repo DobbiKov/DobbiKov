@@ -21,6 +21,8 @@ Hello, I'm DobbiKov! I'm **Software Developer** from **Ukraine🇺🇦**.
 - Telegram: [@dobbikov](https://t.me/dobbikov)
 - Youtube: [My Channel](https://www.youtube.com/channel/UCTZPd4-fWOOdaqLzBwJQolw)
 - Site: [in developing](https://dobbikov.com)
+- Twitter: [@dobbikov](https://x.com/dobbikov)
+- Instagram: [@dobbikov](https://instagram.com/dobbikov)
 
 ## 💻 My current activity
 [![Discord Presence](https://lanyard.cnrad.dev/api/396425797071798282)](https://discord.com/users/396425797071798282)

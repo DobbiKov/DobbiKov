@@ -15,6 +15,10 @@ Hello, I'm DobbiKov! I'm **Software Developer** from **Ukraine🇺🇦**.
 - MySQL
 - docker
 - Pawn
+- Rust
+- C++
+- Ocaml
+- NumPy, Pandas, Matplotlib
 
 ## 🤝 Contact
 - Discord: DobbiKov#7647

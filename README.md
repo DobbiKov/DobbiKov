@@ -1,5 +1,5 @@
-# 👋 Hello
-Hello, I'm DobbiKov! I'm **Software Developer** from **Ukraine🇺🇦**.
+# 👋 Yehor Korotenko
+Hello, I'm DobbiKov(also I had pseudo Roman Zapotockiy)! I'm **Software Developer** from **Ukraine🇺🇦**.
 
 ## 👨‍💻 Skills
 - python

@@ -22,9 +22,9 @@ Hello, I'm DobbiKov(also I had pseudo Roman Zapotockiy)! I'm **Software Develope
 
 ## 🤝 Contact
 - Discord: DobbiKov#7647
-- Telegram: [@dobbikov](https://t.me/dobbikov)
+- eMail: dobbikov@gmail.com
 - Youtube: [My Channel](https://www.youtube.com/channel/UCTZPd4-fWOOdaqLzBwJQolw)
-- Site: [in developing](https://dobbikov.com)
+- Site: [dobbikov.com](https://dobbikov.com)
 - Twitter: [@dobbikov](https://x.com/dobbikov)
 - Instagram: [@dobbikov](https://instagram.com/dobbikov)
 
